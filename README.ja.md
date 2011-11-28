@@ -11,9 +11,9 @@ Morbi dignissim luctus felis, quis viverra dui bibendum ut. Aliquam erat volutpa
 ## ac ullamcorper metus erat vitae lectus
 Aenean a iaculis risus. Proin ullamcorper convallis augue, id cursus augue blandit id.
 
-** Aenean ut libero sem **
+**Aenean ut libero sem**
   Vestibulum ante ipsum primis in faucibus orci
-** luctus et ultrices posuere cubilia Curae **
+**luctus et ultrices posuere cubilia Curae**
   Pellentesque cursus, nisi a pretium hendrerit
 
 ## metus velit tincidunt dolor
